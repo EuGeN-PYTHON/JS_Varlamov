@@ -32,11 +32,16 @@ td.cell{
 .food{
     background: #00d021;
 }
+
+.barrier{
+    background: darkred;
+}
+
 .snakeBody{
     background: #e5e5e5;
 }
 .snakeHead{
-    background: #9b0013;
+    background: blue;
 }
 .disabled {
     background: #7c7c7c;
